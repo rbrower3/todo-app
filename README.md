@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 Ionic App Base
 =====================
+
+This is a basic to do app. 
 
 A starting project for Ionic that optionally supports
 using custom SCSS.
@@ -86,8 +87,3 @@ Warning: the nightly version is not stable.
 
 ## Issues
 Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/contribute/#issues) to the main Ionic repository. On the other hand, pull requests are welcome here!
-
-=======
-todo-app
-========
->>>>>>> ac34fb300466956082be0cb63d29aec1c59a002a
